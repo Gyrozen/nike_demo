@@ -29,7 +29,7 @@ body {
     background-color: black;
     color:rgb(129, 129, 129);
     font-weight: 100;
-    font-family: 'Nike TG', 'Helvetica Neue', Helvetica;
+    font-family: 'Courier New', Courier, monospace;
     font-size:17px;
     position: static;
 }
